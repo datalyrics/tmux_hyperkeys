@@ -1,0 +1,105 @@
+# new tab
+[keyboard]
+[[keyboard.bindings]]
+chars = "\u0001c"
+key = "T"
+mods = "Shift|Command|Option|Control"
+
+# close
+[[keyboard.bindings]]
+chars = "\u0001x"
+key = "X"
+mods = "Shift|Command|Option|Control"
+
+# save
+[[keyboard.bindings]]
+chars = "\u0001\u0013"
+key = "S"
+mods = "Shift|Command|Option|Control"
+
+# restore
+[[keyboard.bindings]]
+chars = "\u0001\u0012"
+key = "R"
+mods = "Shift|Command|Option|Control"
+
+# switch to tab no xy
+[[keyboard.bindings]]
+chars = "\u00011"
+key = "1"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00012"
+key = "2"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00013"
+key = "3"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00014"
+key = "4"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00015"
+key = "5"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00016"
+key = "6"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00017"
+key = "7"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00018"
+key = "8"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00019"
+key = "9"
+mods = "Shift|Command|Option|Control"
+[[keyboard.bindings]]
+chars = "\u00010"
+key = "0"
+mods = "Shift|Command|Option|Control"
+
+# vertical split
+[[keyboard.bindings]]
+chars = "\u0001\""
+key = "V"
+mods = "Shift|Command|Option|Control"
+
+# horizontal split
+[[keyboard.bindings]]
+chars = "\u0001%"
+key = "H"
+mods = "Shift|Command|Option|Control"
+
+# Up Arrow
+[[keyboard.bindings]]
+chars = "\u0001\u001b[A"
+key = "Up"
+mods = "Shift|Command|Option|Control"
+
+# Down Arrow
+[[keyboard.bindings]]
+chars = "\u0001\u001b[B"
+key = "Down"
+mods = "Shift|Command|Option|Control"
+
+# Right Arrow
+[[keyboard.bindings]]
+chars = "\u0001\u001b[C"
+key = "Right"
+mods = "Shift|Command|Option|Control"
+
+# Left Arrow
+[[keyboard.bindings]]
+chars = "\u0001\u001b[D"
+key = "Left"
+mods = "Shift|Command|Option|Control"
+
+
+
